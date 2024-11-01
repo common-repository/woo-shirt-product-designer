@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mlfactory\n"
+"POT-Creation-Date: 2020-10-10 10:21+0200\n"
+"PO-Revision-Date: 2020-10-10 10:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: Short Product Designer for WooCommerce\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/inc/spdfw_backend.php:2
+msgid "WooCommerce T-Shirt / Product Designer Responsive"
+msgstr "WooCommerce T-Shirt / Product Designer Responsive"
+
+#: core/inc/spdfw_backend.php:3
+msgid "Thanks for using the plugin. We wish you a good success."
+msgstr ""
+"Vielen Dank für die Verwendung des Plugins. Wir wünschen Ihnen viel Erfolg."
+
+#: core/inc/spdfw_backend.php:4
+msgid "PRO Version"
+msgstr "PRO Version"
+
+#: core/inc/spdfw_backend.php:4
+msgid ""
+"In the PRO Version they are many more great possibilities to increase your "
+"sales and to customize the designer and its calculation even more detailed."
+msgstr ""
+"In der PRO-Version sind es noch viel mehr großartige Möglichkeiten, Ihren "
+"Umsatz zu steigern und den Designer und seine Berechnung noch detaillierter "
+"anzupassen."
+
+#: core/inc/spdfw_backend.php:5
+msgid ""
+"More information about the PRO version can be found on the <a href=\"https://"
+"wordpress.org/plugins/woo-shirt-product-designer/\" target=\"_blank"
+"\">WordPress Plugin Site</a>."
+msgstr ""
+"Mehr Informationen rund um die PRO Version finden Sie auf der <a href="
+"\"https://wordpress.org/plugins/woo-shirt-product-designer/\" target=\"_blank"
+"\">WordPress Plugin Seite</a>."
+
+#: core/inc/spdfw_backend.php:6
+msgid "You like the plugin?"
+msgstr "Ihnen gefällt das Plugin?"
+
+#: core/inc/spdfw_backend.php:6
+msgid ""
+"Then I would happy for a rating on <a href=\"https://wordpress.org/support/"
+"plugin/woo-shirt-product-designer/reviews/#new-post\" target=\"_blank"
+"\">Wordpress.org</a>."
+msgstr ""
+"Dann würde ich mich über eine Bewertung auf <a href=\"https://wordpress.org/"
+"support/plugin/woo-shirt-product-designer/reviews/#new-post\" target=\"_blank"
+"\">Wordpress.org</a> sehr freuen."
+
+#: core/inc/spdfw_backend.php:7
+msgid ""
+"All settings can be found directly at the WooCommerce product (Product Typ = "
+"Woo Designer)."
+msgstr ""
+"Alle Einstelungen finden Sie direkt auf der WooCommere Produkt Seite "
+"(Produkt Type = Woo Designer)"
+
+#: core/inc/spdfw_backend.php:8
+msgid ""
+"You will find detailed instructions <a href=\"https://wordpress.org/plugins/"
+"woo-shirt-product-designer/\" target=\"_blank\">here</a>"
+msgstr ""
+"<a href=\"https://wordpress.org/plugins/woo-shirt-product-designer/\" target="
+"\"_blank\">Hier</a> finden Sie eine detailierte Anleitung"
+
+#: core/inc/spdfw_product_tab.php:4
+msgid "Variations / Colors"
+msgstr "Variationen / Farben"
+
+#: core/inc/spdfw_product_tab.php:27
+#: shirt-product-designer-for-woocommerce.php:109
+#: shirt-product-designer-for-woocommerce.php:1479
+msgid "Color"
+msgstr "Farben"
+
+#: core/inc/spdfw_product_tab.php:28 core/inc/spdfw_product_tab.php:29
+msgid "Picture Back"
+msgstr "Bild Rückseite"
+
+#: core/inc/spdfw_product_tab.php:30
+#: shirt-product-designer-for-woocommerce.php:107
+#: shirt-product-designer-for-woocommerce.php:1477
+msgid "Price"
+msgstr "Preis"
+
+#: core/inc/spdfw_product_tab.php:36
+msgid "Add Variation / Color"
+msgstr "Variation / Farbe hinzufügen"
+
+#: core/inc/spdfw_product_tab.php:43 core/inc/spdfw_product_tab.php:63
+msgid "Predefined graphics"
+msgstr "Vordefinierte Grafiken"
+
+#: core/inc/spdfw_product_tab.php:57
+msgid "Allow graphics"
+msgstr "Grafiken erlauben"
+
+#: core/inc/spdfw_product_tab.php:94
+msgid "Add graphic"
+msgstr "Grafik hinzufügen"
+
+#: core/inc/spdfw_product_tab.php:102
+msgid "Text input"
+msgstr "Text Eingabe"
+
+#: core/inc/spdfw_product_tab.php:116
+msgid "Allow text"
+msgstr "Text Eingabe erlauben"
+
+#: core/inc/spdfw_product_tab.php:127
+msgid "Surcharge for text"
+msgstr "Aufpreis für Text"
+
+#: core/inc/spdfw_product_tab.php:131
+msgid "Surcharge for the text"
+msgstr "Aufpreis für den Text"
+
+#: core/inc/spdfw_product_tab.php:141
+msgid "Graphic Upload"
+msgstr "Grafik Upload"
+
+#: core/inc/spdfw_product_tab.php:155
+msgid "Allow graphic upload"
+msgstr "Grafik Upload erlauben"
+
+#: core/inc/spdfw_product_tab.php:171
+msgid "IMPORTANT"
+msgstr "WICHTIG"
+
+#: core/inc/spdfw_product_tab.php:172
+msgid ""
+"Be sure to set a regular price under \"General\" otherwise the product "
+"cannot be purchased."
+msgstr ""
+"Bitte stellen Sie sicher, das Sie einen regulären Preis unter \"Generell\" "
+"setzen. Andernfalls kann das Produkt nicht erworben werden."
+
+#: core/inc/spdfw_product_tab.php:173
+msgid "Set the price to 0 or take the price of the cheapest variation."
+msgstr ""
+"Setzen Sie den Preis auf 0 oder geben Sie den Preis der günstigsten "
+"Variation des Produktes ein."
+
+#: core/inc/spdfw_product_tab.php:177
+msgid "Are the features not enough for you"
+msgstr "Sind die Features nicht ausreichend für Sie"
+
+#: core/inc/spdfw_product_tab.php:178
+msgid ""
+"No problem - in the PRO VERSION you have much more possibilities to "
+"customize the designer/configurator."
+msgstr ""
+"Kein Problem - in der PRO VERSION haben Sie viel mehr Möglichkeiten den "
+"Designer/Konfigurator an Ihre Bedürfnisse anzupassen."
+
+#: core/inc/spdfw_product_tab.php:179
+msgid ""
+"All details about the PRO VERSION can be found on the <a href=\"https://"
+"wordpress.org/plugins/woo-shirt-product-designer/\" target=\"_blank"
+"\">WordPress Plugin Page</a>."
+msgstr ""
+"Alle Informationen rund um die PRO Version finden Sie auf der <a href="
+"\"https://wordpress.org/plugins/woo-shirt-product-designer/\" target=\"_blank"
+"\">WordPress Plugin Seite</a>."
+
+#: shirt-product-designer-for-woocommerce.php:93
+msgid ""
+"WooCommerce T-Shirt Product Designer require WooCommerce. Please install "
+"WooCommerce."
+msgstr ""
+"WooCommerce T-Shirt Product Designer erfordert WooCommerce. Bitte "
+"installieren Sie WooCommerce."
+
+#: shirt-product-designer-for-woocommerce.php:104
+#: shirt-product-designer-for-woocommerce.php:1474
+msgid "Do you really want to delete?"
+msgstr "Wollen Sie den Datensatz sicher löschen?"
+
+#: shirt-product-designer-for-woocommerce.php:105
+#: shirt-product-designer-for-woocommerce.php:1475
+msgid "An error has occurred. The record was not deleted."
+msgstr "Es ist ein Fehler aufgetreten. Der Datensatz wurde nicht gelöscht."
+
+#: shirt-product-designer-for-woocommerce.php:106
+#: shirt-product-designer-for-woocommerce.php:112
+#: shirt-product-designer-for-woocommerce.php:1476
+#: shirt-product-designer-for-woocommerce.php:1482
+msgid "Select image"
+msgstr "Bild wählen"
+
+#: shirt-product-designer-for-woocommerce.php:108
+#: shirt-product-designer-for-woocommerce.php:1478
+msgid "Image"
+msgstr "Bild"
+
+#: shirt-product-designer-for-woocommerce.php:110
+#: shirt-product-designer-for-woocommerce.php:1480
+msgid "Image Front"
+msgstr "Bild Vorderseite"
+
+#: shirt-product-designer-for-woocommerce.php:111
+#: shirt-product-designer-for-woocommerce.php:1481
+msgid "Image Back"
+msgstr "Bild Rückseite"
+
+#: shirt-product-designer-for-woocommerce.php:238
+#: shirt-product-designer-for-woocommerce.php:711
+#: shirt-product-designer-for-woocommerce.php:1301
+msgid "Front"
+msgstr "Vorderseite"
+
+#: shirt-product-designer-for-woocommerce.php:242
+#: shirt-product-designer-for-woocommerce.php:721
+#: shirt-product-designer-for-woocommerce.php:1307
+msgid "Back"
+msgstr "Rückseite"
+
+#: shirt-product-designer-for-woocommerce.php:246
+#: shirt-product-designer-for-woocommerce.php:731
+msgid "Size"
+msgstr "Größe"
+
+#: shirt-product-designer-for-woocommerce.php:250
+#: shirt-product-designer-for-woocommerce.php:741
+#: shirt-product-designer-for-woocommerce.php:1323
+msgid "Base price"
+msgstr "Grundpreis"
+
+#: shirt-product-designer-for-woocommerce.php:254
+#: shirt-product-designer-for-woocommerce.php:777
+#: shirt-product-designer-for-woocommerce.php:1372
+msgid "Texts"
+msgstr "Texte"
+
+#: shirt-product-designer-for-woocommerce.php:272
+#: shirt-product-designer-for-woocommerce.php:766
+#: shirt-product-designer-for-woocommerce.php:1331
+msgid "Graphics"
+msgstr "Grafiken"
+
+#: shirt-product-designer-for-woocommerce.php:341
+#: shirt-product-designer-for-woocommerce.php:350
+msgid "Woo Designer"
+msgstr "Woo Designer"
+
+#: shirt-product-designer-for-woocommerce.php:1085
+msgid "Please wait... A preview will be generated."
+msgstr "Bitte warten... Eine Vorschau wird generiert."
+
+#: shirt-product-designer-for-woocommerce.php:1086
+msgid "This can take 20-30 seconds depending on the workload."
+msgstr "Dies kann je nach Serverauslast 20-30 Sekunden dauern."
+
+#: shirt-product-designer-for-woocommerce.php:1217
+msgid "No predefined graphics found"
+msgstr "Keine vordefinierten Grafiken gefunden"
+
+#: shirt-product-designer-for-woocommerce.php:1228
+msgid "Select file..."
+msgstr "Datei wählen..."
+
+#: shirt-product-designer-for-woocommerce.php:1237
+msgid "Arial"
+msgstr "Arial"
+
+#: shirt-product-designer-for-woocommerce.php:1238
+msgid "Nosifer"
+msgstr "Nosifer"
+
+#: shirt-product-designer-for-woocommerce.php:1239
+msgid "League Script"
+msgstr "League Script"
+
+#: shirt-product-designer-for-woocommerce.php:1240
+msgid "Yellowtail"
+msgstr "Yellowtail"
+
+#: shirt-product-designer-for-woocommerce.php:1241
+msgid "Permanent Marker"
+msgstr "Permanent Marker"
+
+#: shirt-product-designer-for-woocommerce.php:1242
+msgid "Codystar"
+msgstr "Codystar"
+
+#: shirt-product-designer-for-woocommerce.php:1243
+msgid "Eater"
+msgstr "Eater"
+
+#: shirt-product-designer-for-woocommerce.php:1244
+msgid "Molle"
+msgstr "Molle"
+
+#: shirt-product-designer-for-woocommerce.php:1245
+msgid "Snowburst One"
+msgstr "Snowburst One"
+
+#: shirt-product-designer-for-woocommerce.php:1246
+msgid "Shojumaru"
+msgstr "Shojumaru"
+
+#: shirt-product-designer-for-woocommerce.php:1247
+msgid "Frijole"
+msgstr "Frijole"
+
+#: shirt-product-designer-for-woocommerce.php:1248
+msgid "Gloria Hallelujah"
+msgstr "Gloria Hallelujah"
+
+#: shirt-product-designer-for-woocommerce.php:1249
+msgid "Calligraffitti"
+msgstr "Calligraffitti"
+
+#: shirt-product-designer-for-woocommerce.php:1250
+msgid "Verdana"
+msgstr "Verdana"
+
+#: shirt-product-designer-for-woocommerce.php:1251
+msgid "Impact"
+msgstr "Impact"
+
+#: shirt-product-designer-for-woocommerce.php:1252
+msgid "MS Comic Sans"
+msgstr "MS Comic Sans"
+
+#: shirt-product-designer-for-woocommerce.php:1257
+msgid "B"
+msgstr "B"
+
+#: shirt-product-designer-for-woocommerce.php:1259
+msgid "I"
+msgstr "I"
+
+#: shirt-product-designer-for-woocommerce.php:1263
+msgid "px"
+msgstr "px"
+
+#: shirt-product-designer-for-woocommerce.php:1271
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: shirt-product-designer-for-woocommerce.php:1378
+msgid "Total"
+msgstr "Gesamt"
+
+#: shirt-product-designer-for-woocommerce.php:1387
+msgid "Save"
+msgstr "Speichern"
+
+#: shirt-product-designer-for-woocommerce.php:1392
+msgid "Select size..."
+msgstr "Größe wählen..."
+
+#: shirt-product-designer-for-woocommerce.php:1393
+msgid "XS"
+msgstr "XS"
+
+#: shirt-product-designer-for-woocommerce.php:1394
+msgid "S"
+msgstr "S"
+
+#: shirt-product-designer-for-woocommerce.php:1395
+msgid "M"
+msgstr "M"
+
+#: shirt-product-designer-for-woocommerce.php:1396
+msgid "L"
+msgstr "L"
+
+#: shirt-product-designer-for-woocommerce.php:1397
+msgid "XL"
+msgstr "XL"
+
+#: shirt-product-designer-for-woocommerce.php:1398
+msgid "XXL"
+msgstr "XXL"
+
+#: shirt-product-designer-for-woocommerce.php:1406
+msgid "Buy"
+msgstr "Kaufen"
+
+#: shirt-product-designer-for-woocommerce.php:1419
+msgid "Preview"
+msgstr "Vorschau"
+
+#: shirt-product-designer-for-woocommerce.php:1427
+msgid "Close"
+msgstr "Schließen"
+
+#~ msgid "Variation / Add Color"
+#~ msgstr "Variationen / Farben"

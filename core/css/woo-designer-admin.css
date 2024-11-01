@@ -1,0 +1,176 @@
+.designer_hide {
+	display: none;
+}
+
+.row_designer_images {    
+    display: block;
+    float: left;
+    width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.row_designer_images .designer_image_col.fix {  
+
+}
+
+.designer_image_col {
+	    height: 80px;
+    display: block;
+    float: left;
+}
+
+.row_designer_images {
+	text-align: center;
+}
+
+.row_designer_images .designer_item_price {
+	    text-align: center;
+    float: none !important;
+}
+
+.row_designer_images:nth-child(3n+1){
+    clear:left
+}
+
+.designer_images_header {
+	    background: #eee;
+		text-align: left;
+}
+
+.designer_images_header .dashicons {
+float: right;
+}
+
+.designer_image_col {
+	float: left;
+	width: 100%;
+}
+
+.designer_add_option_image {
+	float: left;
+	clear: left;
+}
+
+.designer_open_main_option .toggle-indicator:before{
+	    content: "\f140" !important;
+}
+
+.designer_open_main_option .toggle-indicator.tgl:before{
+	    content: "\f142" !important;
+}
+.designer_variations .dashicons.dashicons-edit:hover {
+border: 1px solid #555;
+    border-radius: 15px;
+    padding: 2px;
+	cursor: pointer;
+
+}
+
+.row_designer_images .dashicons.dashicons-edit:hover {
+border: 1px solid #555;
+    border-radius: 15px;
+    padding: 2px;
+	cursor: pointer;
+
+}
+
+.designer_delete_addon:hover {
+	cursor: pointer;
+}
+
+.designer_images {
+	border: none;
+}
+
+.row_designer_images .dashicons.dashicons-edit {
+border: 1px solid transparent;
+    border-radius: 15px;
+    padding: 2px;
+	 transition: 0.3s;
+}
+
+.designer_open_main_option .toggle-indicator {
+    float: right;
+    display: inline;	
+	color: #0073aa;
+}
+
+.designer_variations .dashicons.dashicons-edit {
+border: 1px solid transparent;
+    border-radius: 15px;
+    padding: 2px;
+	 transition: 0.3s;
+}
+
+.designer_delete_variation {
+	float: right;
+	    color: #555;
+    font-size: 1rem;
+    padding-top: 2px;		
+}
+
+
+.designer_variation_img, .designer_addons_img {
+	max-width: 100px;
+}
+
+.designer_delete_variation:hover {
+	color: #555;
+}
+
+.designer_delete_variation .dashicons:hover {
+border: 1px solid #555;
+    border-radius: 15px;
+    padding: 2px;
+
+}
+
+.designer_delete_variation .dashicons {
+border: 1px solid transparent;
+    border-radius: 15px;
+    padding: 2px;
+	font-size: 1rem;
+	 transition: 0.3s;
+}
+
+.variation_entry_header {
+	background: #eee;
+}
+
+.designer_main_addons, .designer_main_variations, .designer_main_textinput, .designer_main_customuploads {
+	float: left;
+	width: 100%;
+	    margin-bottom: 30px;
+}
+
+.woo_designer_product_options h3 {
+    padding-left: 10px;
+    padding-right: 10px;	
+	    font-size: 1rem;
+    padding-top: 10px;
+    padding-bottom: 10px;		
+}
+
+.woo_designer_product_options h3 a {
+	text-decoration: none;
+}
+
+.woo_designer_product_options h3 a:hover .toggle-indicator {
+	    color: #00a0d2;
+}
+
+.designer_opened_option {
+	float: left;
+	width: 100%;
+}
+
+.gspdfw_gopro {
+	width: 97%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;	
+}
+
+.spdfw_gopro {
+	width: 100%;
+}
